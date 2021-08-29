@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BalanceTreeCheck", "BalanceTreeCheck.csproj", "{505AD408-F101-4FCD-8C1F-793BC980BAAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{505AD408-F101-4FCD-8C1F-793BC980BAAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{505AD408-F101-4FCD-8C1F-793BC980BAAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{505AD408-F101-4FCD-8C1F-793BC980BAAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{505AD408-F101-4FCD-8C1F-793BC980BAAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4ADF123-F611-420C-B611-BA9DC5DA570E}
+	EndGlobalSection
+EndGlobal
